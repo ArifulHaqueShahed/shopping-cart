@@ -53,4 +53,10 @@ body{
 	background-color: #2FBE70;
 	border: none;
 }
-
+#last-section{
+	display: none;
+	text-align: center;
+	font-weight: 900;
+	font-style:italic ;
+	color: darkorange;
+}
